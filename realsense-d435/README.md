@@ -4,9 +4,9 @@ How to use
 ## 事前準備
 
 directory 構造は下記
-
-    home/work/realsense/
-
+```
+home/work/realsense/
+```
 
 移動
 ```
@@ -16,7 +16,7 @@ $ cd ~/MyDockerfiles/realsense-d435
 コンテナのビルド
 
 ```
-　　$ docker build --tag=realsense .
+$ docker build --tag=realsense .
 ```
 
 ※以後、必ずDockerはrealsensディレクトリ内でRUN
@@ -24,7 +24,7 @@ $ cd ~/MyDockerfiles/realsense-d435
  
  移動
 ```
- $ cd ~/work/realsense/
+$ cd ~/work/realsense/
 ```
  ※以後、必ずDockerはrealsenseでRUN
 
