@@ -12,8 +12,10 @@ N/A
 N/A
 
 ## Features
+* pytorch: Pytorch, OpenCV
 * tensorflow-1.15.0-cv-models: Tensorflow-1.15.0, Jupyternotebook, OpenCV and Models
 * tensorflow-2.0.0-cv-models: Tensorflow-2.0.0, Jupyternotebook, OpenCV and Models
+* tensorflow-2.1.0-cv-models: Tensorflow-2.1.0, Jupyternotebook, OpenCV and Models
 * realsense-d435: pyrealsense2 and openCV
 
 ## Requirement
